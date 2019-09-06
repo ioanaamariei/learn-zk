@@ -1,0 +1,33 @@
+.banner {
+	background-color: #102d35;
+    color: white;
+    padding: 5px 10px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.main{
+	background-color: #ebf5fb;
+	padding: 20px 40px;
+}
+
+columns {
+	background-color: #102d35;
+	color: white;
+	padding: 5px 10px;
+}
+
+row {
+	background-color: #102d35;
+	color: white;
+}
+
+row:ACTIVE {
+	background: white;
+	color: #102d35;
+}
+
+.z-row-background-color {
+	background: white;
+	color: #102d35;
+}

@@ -1,0 +1,5 @@
+<zk>
+    <include id="mainInclude"
+        viewModel="@id('vm') @init('com.foo.myFinalApp.NavigationViewModel')"
+        src="@load(vm.includeSrc)" />
+</zk>
